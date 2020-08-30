@@ -26,11 +26,11 @@ This is a Telegram Rename Bot!
     
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
-3.Any issue Contact me 
+3.Any issue Contact me @Stefin_Strange
 --------
 
-Support Group : @TestingGroup666
-© @Stefin_Strange @StefinStrange"""
+Support Group : StefinStrange
+Contact : @Stefin_Strange """
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
@@ -40,5 +40,4 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@ReNameBot</code>
 Please short your file name and try again!"""
